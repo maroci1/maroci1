@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maroci1
-- 👀 I’m interested in JavaScript, CSS, HTML
-- 🌱 I’m currently learning JavaScript and CSS
+- 👀 I’m interested in HTML, CSS and Python.
+- 🌱 I’m currently learning HTML, CSS and Phyton.
 - 💞️ I’m looking to collaborate on projects that can make me learn more to start from the beggining doing simple things till hard things.
 - 📫 How to reach me You can reach me at my email maroci@protonmail.com, here on Github or Discord and my nick es Marce1985
 
