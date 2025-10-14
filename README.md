@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maroci1
+- 👋 Hi, I’m Marcelo Cigorraga
 - 👀 I’m interested in HTML, CSS and Python.
 - 🌱 I’m currently learning HTML, CSS and Phyton.
 - 💞️ I’m looking to collaborate on projects that can make me learn more to start from the beggining doing simple things till hard things.
