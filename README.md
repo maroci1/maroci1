@@ -68,7 +68,6 @@ Si buscas un *freelancer* con rigor profesional para tu próximo proyecto de maq
 | :--- | :--- |
 | **Workana** | [https://www.workana.com/freelancer/5d7eb98ac9aff7dca0840561fa36b7cf] |
 | **Email** | [marcelo.cigorraga@gmail.com] |
-- 📫 How to reach me You can reach me at my email marcelo.cigorraga@gmail.com, here on Github or Discord and my nick es Marce1985
 
 <!---
 maroci1/maroci1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
