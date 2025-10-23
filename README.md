@@ -66,6 +66,7 @@ Si buscas un *freelancer* con rigor profesional para tu próximo proyecto de maq
 
 | Plataforma | Enlace |
 | :--- | :--- |
+| **Linkedin** | [(https://www.linkedin.com/in/marcelocigorraga/)] |
 | **Workana** | [https://www.workana.com/freelancer/5d7eb98ac9aff7dca0840561fa36b7cf] |
 | **Email** | [marcelo.cigorraga@gmail.com] |
 
