@@ -10,17 +10,24 @@ Soy un profesional con una sólida base analítica y un **rigor metódico** adqu
 
 ### 🛠️ Habilidades Clave
 
-| Frontend | Metodología | Herramientas |
-| :--- | :--- | :--- |
-| **HTML5** | **Responsive Design** | 🔗 GitHub |
-| **CSS3** | Debugging Analítico | ⚙️ Git |
-| Flexbox & Grid | Rigor en la Ejecución | CMS (WordPress) |
+Mi conjunto de habilidades se centra en la maquetación y la implementación de diseños.
+
+#### Tecnologías Frontend y CMS
+- **HTML5** & **CSS3** (Incluye Flexbox)
+- **Responsive Design** (Diseño adaptativo para todos los dispositivos)
+- **CMS:** WordPress (Personalización de temas como Blocksy/Kadence)
+- **Versionado:** Git & GitHub
+
+#### Conceptos y Metodología
+- **Debugging Analítico** (Identificación de la causa raíz de los errores)
+- **Rigor en la Ejecución** y Atención al Detalle
+- **SEO Básico** (Implementación con YoastSEO)
 
 ---
 
-### 🚀 Proyectos Destacados (Ver la Maquetación en Acción)
+### 🚀 Proyectos (Ver la Maquetación en Acción)
 
-Mis proyectos reflejan un enfoque en la **limpieza del código** y la **fidelidad al diseño (Pixel Perfect)**.
+Mis proyectos reflejan un enfoque en la **limpieza del código** y la **fidelidad al diseño**.
 
 #### 1. Encuesta de Satisfacción (HTML y CSS Puro)
 Un formulario maquetado y validado, demostrando habilidades clave en **estructuras complejas y responsive design**.
@@ -59,10 +66,9 @@ Si buscas un *freelancer* con rigor profesional para tu próximo proyecto de maq
 
 | Plataforma | Enlace |
 | :--- | :--- |
-| **LinkedIn** | [Coloca aquí tu enlace de LinkedIn] |
-| **Workana** | [Coloca aquí tu enlace a Workana] |
-| **Email** | [Tu.Correo@email.com] |
-- 📫 How to reach me You can reach me at my email maroci@protonmail.com, here on Github or Discord and my nick es Marce1985
+| **Workana** | [https://www.workana.com/freelancer/5d7eb98ac9aff7dca0840561fa36b7cf] |
+| **Email** | [marcelo.cigorraga@gmail.com] |
+- 📫 How to reach me You can reach me at my email marcelo.cigorraga@gmail.com, here on Github or Discord and my nick es Marce1985
 
 <!---
 maroci1/maroci1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
